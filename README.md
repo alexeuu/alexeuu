@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, me chamo Alex Silva, tenho 19 anos e atualmente estou no 2º período de Ciências da Computação, bolsista integral pelo Prouni. Sou apaixonado por tecnologia.
+Olá, me chamo Alex Silva, tenho 19 anos e atualmente estou no 2º período de Ciências da Computação. Sou apaixonado por tecnologia.
 
 <p align="left">
 
